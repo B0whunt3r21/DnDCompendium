@@ -15,7 +15,7 @@ import Classes from "./components/classes/Classes";
 
 const router = createBrowserRouter([
   {
-    path: "/DnDCompendium/",
+    path: "/",
     element: <Skelletton />,
     errorElement: <ErrorPage />,
     children: [
